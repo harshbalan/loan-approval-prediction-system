@@ -49,4 +49,4 @@ Boom! 💥 Render will build your environment and give you a live URL. Your mach
 
 ## 🌐 Live Demo
 Check out the live, working version of this project hosted on Render:
-👉 **[Loan Approval Prediction System - Live App](https://loan-prediction-system-udx8.onrender.com/)**
+👉 **[Loan Approval Prediction System - Live App](https://loan-approval-prediction-system-tste.onrender.com/)**
