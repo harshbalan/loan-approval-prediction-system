@@ -9,7 +9,7 @@ If you are looking for the complete machine learning workflow—including data e
 👉 **[Full Source Code & Dataset (Google Colab)](YOUR_COLAB_LINK_HERE)**
 
 ## 👨‍💻 Developer
-**Chandan Saroj**
+**Harsh Balan**
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chandan-saroj/)
 * **GitHub:** [Check out my projects](https://github.com/chandanXP)
 
