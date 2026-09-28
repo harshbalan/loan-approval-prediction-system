@@ -146,9 +146,9 @@ This application predicts whether an applicant's loan will be **Approved** or **
 developer_info = """
 ## 👨‍💻 About the Developer
 
-**Created By:** Deepak Kumar
+**Created By:** Harsh Balan
 
-**Roll No.:** 28240170
+**Roll No.:** 24011041024
 
 **Project:** Loan Approval Prediction System
 
