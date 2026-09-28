@@ -10,8 +10,8 @@ If you are looking for the complete machine learning workflow—including data e
 
 ## 👨‍💻 Developer
 **Harsh Balan**
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chandan-saroj/)
-* **GitHub:** [Check out my projects](https://github.com/chandanXP)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harsh-balan-207aa5321?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **GitHub:** [Check out my projects](https://github.com/harshbalan)
 
 ## 🛠️ Tools & Technologies Used
 * **Machine Learning:** Scikit-learn (Random Forest Classifier)
